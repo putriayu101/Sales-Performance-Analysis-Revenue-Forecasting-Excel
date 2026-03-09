@@ -80,12 +80,12 @@ The output of these mini projects typically includes:
   - From this, it cannot be said that buyer interest in the **Accessories** category is low in every region. However, we can **increase sales** in this category in several ways, **such as promoting it through social media or launching new products** to attract more customers to purchase items in this category.
 
 - **Customer Segmentation** <br>
-    <img width="621" height="352" alt="image" src="https://github.com/user-attachments/assets/24ca6bbf-924c-4262-9951-fc327d1b6bfd" />
-  - West merupakan wilayah yang paling menguntungkan per transaksi dengan rata-rata belanja tertinggi sebesar Rp. 360,469 meskipun secara jumlah transaksi (32) bukan yang terbanyak. Fokus strateginya adalah melakukan upselling agar rata-rata belanja meningkat mendekati harga rata-rata total.
-  - East menjadi main transaksi dengan 38 pesanan, namun memiliki rata-rata belanja yang rendah (Rp 296,447).
-  - North memiliki rata-rata belanja yang kuat (Rp 322,000) meskipun jumlah transaksinya peling sedikit (30 pesanan)
-  - South merupakan wilayah yang palingn tertinggal karena memiliki jumlah transaksi terendah (30) sekaligus rata-rata belanja terendah (Rp 291,000). Wilayah South membutuhkan bantuan yang mendalam baik dalam hal promosi untuk menambah jumlah pelanggan maupun strategi harga untuk meningkatkan nilai belanja. 
-  - Dari data, wilayah West & North memiliki pelanggan yang daya belinya tinggi. Sehingga fokus strateginya adalah menjaga loyalitas agar nilai transasksi tetap tinggi.
+    <img width="621" height="352" alt="image" src="https://github.com/user-attachments/assets/778d1276-1c51-46b0-8263-046f26b89628" />
+  - The West is the most profitable region per transaction with the highest average spend of IDR 360,469, even though it does not have the highest number of transactions (32 orders). The strategic focus is on upselling to increase the average spend closer to the total average price.
+  - East is the main transaction area with 38 orders, but has a low average spend (IDR 296,447).
+  - North has a strong average spend (IDR 322,000) despite having the fewest transactions (30 orders).
+  - South is the most underperforming region as it has the lowest number of transactions (30 orders) and the lowest average spend (IDR 291,000). The South region requires in-depth assistance in terms of promotion to increase the number of customers and pricing strategies to increase spending value. 
+  - Based on the data, the West & North regions have customers with high purchasing power. Therefore, the strategic focus is on maintaining loyalty to keep transaction values high.
 
 ## 📊Dashboard 
 Excel simple dashboard from this project:														
