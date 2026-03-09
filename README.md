@@ -1,5 +1,5 @@
-# 📊 Mini Excel Projects – Basic to Advanced
-This repository contains a collection of **mini projects using Microsoft Excel**, designed to demonstrate progressive skill development from **Basic**, **Intermediate**, to **Advanced** levels. Each project focuses on applying Excel features to real-world data scenarios, emphasizing **data preparation, analysis, and visualization**.
+# 📊 Mini Excel Projects – Basic to Intermediate
+This repository contains a collection of **mini projects using Microsoft Excel**, designed to demonstrate progressive skill development from **Basic** and **Intermediate** levels. Each project focuses on applying Excel features to real-world data scenarios, emphasizing **data preparation, analysis, and visualization**.
 
 
 ## 🎯 Project Objectives
@@ -29,9 +29,8 @@ Across all project levels, data preparation may include:
 
 ## 🚀 How to Navigate
 1. Start from the **basic** folder
-2. Continue to **intermediate**
-3. Finish with **advanced** (*processed*)
-4. Refer to each folder’s README for project details
+2. Continue to **intermediate**.
+3. Refer to each folder’s README for project details
 
 
 ## 📌 Notes
