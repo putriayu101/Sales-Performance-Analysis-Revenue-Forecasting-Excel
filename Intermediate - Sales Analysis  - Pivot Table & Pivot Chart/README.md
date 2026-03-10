@@ -73,7 +73,8 @@ The output of these mini projects typically includes:
   - On average, **sales from January to May 2024 increased**, peaking in May at Rp 145,500, meaning that **product sales increased gradually each month** (*orange bar graph*).
 
 - **Total Sales of Each Category per Region**<br>
-    <img width="674" height="474" alt="image" src="https://github.com/user-attachments/assets/0c1f06e1-1c7b-4990-862e-afe8d2417888" />
+    <img width="674" height="379" alt="image" src="https://github.com/user-attachments/assets/8f17d2c8-2a9e-40c6-9476-f66a919ff812" />
+
   - Judging from the **Sum of Quantity**, the **Accessories** category ranks third in terms of the number of buyers compared to the **Footwear** category, but its total sales are the lowest. This is because the **unit price of Accessories is lower than other categories**, so the graph shows that **Accessories** has the lowest sales.
   - From this, it cannot be said that buyer interest in the **Accessories** category is low in every region. However, we can **increase sales** in this category in several ways, **such as promoting it through social media or launching new products** to attract more customers to purchase items in this category.
 
