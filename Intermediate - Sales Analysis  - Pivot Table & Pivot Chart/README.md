@@ -32,7 +32,8 @@ The Intermediate level projects aim to practice:
 - Lookup & Reference: `VLOOKUP` `AND` `IF`
 - Dynamic Arrays: `UNIQUE`, `SORT`, `RANDARRAY`
 - Conditional Analysis: `COUNTIF`
-- Pivot Tables & Pivot Charts
+- Pivot Tables & Charts
+- Visualization Data
 
 ## 🧹 Data Preparation
 Common preprocessing steps include:
