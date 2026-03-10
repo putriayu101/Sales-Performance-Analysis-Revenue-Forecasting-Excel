@@ -79,18 +79,18 @@ The output of these mini projects typically includes:
 
 - **Customer Segmentation** <br>
     <img width="621" height="352" alt="image" src="https://github.com/user-attachments/assets/778d1276-1c51-46b0-8263-046f26b89628" />
-  - The West is the most profitable region per transaction with the highest average spend of IDR 360,469, even though it does not have the highest number of transactions (32 orders). The strategic focus is on upselling to increase the average spend closer to the total average price.
-  - East is the main transaction area with 38 orders, but has a low average spend (IDR 296,447).
-  - North has a strong average spend (IDR 322,000) despite having the fewest transactions (30 orders).
-  - South is the most underperforming region as it has the lowest number of transactions (30 orders) and the lowest average spend (IDR 291,000). The South region requires in-depth assistance in terms of promotion to increase the number of customers and pricing strategies to increase spending value. 
+  - The **West is the most profitable region per transaction with the highest average spend of IDR 360,469**, even though it does not have the highest number of transactions (32 orders). **The strategic focus is on upselling** to increase the average spend closer to the total average price.
+  - **East is the main transaction area with 38 orders**, but has a low average spend (IDR 296,447).
+  - **North has a strong average spend (IDR 322,000)** despite having the fewest transactions (30 orders).
+  - **South is the most underperforming region as it has the lowest number of transactions (30 orders) and the lowest average spend (IDR 291,000)**. The South region requires in-depth assistance in terms of promotion to increase the number of customers and pricing strategies to increase spending value. 
   - Based on the data, the West & North regions have customers with high purchasing power. Therefore, the strategic focus is on maintaining loyalty to keep transaction values high.
 
 - **Product Performance** <br>
     <img width="630" height="402" alt="image" src="https://github.com/user-attachments/assets/865ba5b5-bd3e-4fdc-a1f2-3ea35e061fdb" />
-  - Shoes: The top-performing product (23.7%) and our primary revenue driver, capturing nearly a quarter of the total market share.
-  - T-Shirt: A strong secondary performer with consistent demand, maintaining a solid 14.9% contribution.
-  - Headphone: A key growth product in the electronics segment, showing a healthy double-digit market share.
-  - Mouse & Hoodie: Supporting categories that provide steady volume and complete our core product ecosystem.
+  - **Shoes: The top-performing product (23.7%) and our primary revenue driver**, capturing nearly a quarter of the total market share.
+  - **T-Shirt: A strong secondary performer** with consistent demand, maintaining a solid 14.9% contribution.
+  - **Headphone: A key growth product in the electronics segment**, showing a healthy double-digit market share.
+  - **Mouse & Hoodie: Supporting categories that provide steady volume and complete our core product ecosystem.**
 
 ## 📊Dashboard 
 Excel simple dashboard from this project:														
