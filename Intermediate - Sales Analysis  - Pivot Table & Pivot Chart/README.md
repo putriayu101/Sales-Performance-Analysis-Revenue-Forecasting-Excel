@@ -87,7 +87,7 @@ The output of these mini projects typically includes:
   - South is the most underperforming region as it has the lowest number of transactions (30 orders) and the lowest average spend (IDR 291,000). The South region requires in-depth assistance in terms of promotion to increase the number of customers and pricing strategies to increase spending value. 
   - Based on the data, the West & North regions have customers with high purchasing power. Therefore, the strategic focus is on maintaining loyalty to keep transaction values high.
 
-- **Product Performance**
+- **Product Performance** <br>
     <img width="630" height="402" alt="image" src="https://github.com/user-attachments/assets/865ba5b5-bd3e-4fdc-a1f2-3ea35e061fdb" />
   - Shoes: The top-performing product (23.7%) and our primary revenue driver, capturing nearly a quarter of the total market share.
   - T-Shirt: A strong secondary performer with consistent demand, maintaining a solid 14.9% contribution.
