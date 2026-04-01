@@ -1,4 +1,5 @@
-# 📊 Mini Excel Projects – Basic to Intermediate
+# 📊 Sales Performance Analysis & Revenue Forecasting Excel
+## Mini Excel Projects – Basic to Intermediate
 This repository contains a collection of **mini projects using Microsoft Excel**, designed to demonstrate progressive skill development from **Basic** and **Intermediate** levels. Each project focuses on applying Excel features to real-world data scenarios, emphasizing **data preparation, analysis, and visualization**.
 
 
