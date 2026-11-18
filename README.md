@@ -100,20 +100,20 @@
 - Sales peaked in **February at IDR 10,050,000**.
 - Sales appear to drop **66% from April to May**, but the dataset ends on **May 10, 2024**, so May is incomplete. The drop reflects missing data, not weaker performance.
 
-<img width="385" height="95" alt="image" src="https://github.com/user-attachments/assets/3b1025d5-92aa-45d2-b6de-738121bfe5fe" />
+<img width="400" height="100" alt="image" src="https://github.com/user-attachments/assets/3b1025d5-92aa-45d2-b6de-738121bfe5fe" />
 
 - Forecast method: a month-to-date **run-rate projection**: (sales so far ÷ days elapsed) × days in the month = (IDR 3,190,000 ÷ 10) × 31 = **IDR 9,889,000**.
 - That is about **4.5% above April** (IDR 9,460,000) and **1.6% below February's peak** (IDR 10,050,000), so May has the potential to approach the February record.
 - This is a simple, indicative estimate: it assumes the first 10 days' daily average holds for the whole month and does not capture seasonality or day-to-day swings.
 
-<img width="400" height="224" alt="image" src="https://github.com/user-attachments/assets/1fcf7ef3-4ad1-4833-86c9-d3543620a126" />
+<img width="430" height="250" alt="image" src="https://github.com/user-attachments/assets/1fcf7ef3-4ad1-4833-86c9-d3543620a126" />
 
 - Comparing **April 1-10 vs May 1-10**, May sales were slightly **higher**: **IDR 3,190,000 vs IDR 3,035,000** (about +5%), consistent with the projection that May is tracking in line with earlier months.
 - **Checkpoint:** if sales have not picked up by around May 20, the projected figure will not be met, and the marketing and sales teams should step in to address it.
 
 ### 3. High-Value vs Low-Value Sales
 
-<img width="425" height="399" alt="image" src="https://github.com/user-attachments/assets/935bb1d4-6c15-459f-b10b-a93e09627e20" />
+<img width="430" height="330" alt="image" src="https://github.com/user-attachments/assets/935bb1d4-6c15-459f-b10b-a93e09627e20" />
 
 - Each order's **Total Sales = Unit Price × Quantity**. An order is classified as "High" if its Total Sales is **≥ IDR 200,000**, and "Low" if it is below that.
 - From January to May 2024, **85.37% of total sales revenue** came from high-value orders and 14.63% from low-value orders. The pattern held in every month, so high-value sales dominated revenue throughout.
