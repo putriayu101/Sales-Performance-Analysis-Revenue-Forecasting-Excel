@@ -1,116 +1,201 @@
-# 📊 Sales Performance Analysis & Revenue Forecasting Excel
+# 📊 Sales Performance Analysis & Revenue Forecasting (Excel)
 
-This folder focused on applying analytical functions and structured data analysis techniques to business-oriented datasets. The projects emphasize **data preparation and clear data visualization** using Microsoft Excel.
+> A business-style sales analysis built entirely in Microsoft Excel: data preparation, Pivot Table analysis across category, product, region and time, a month-to-date revenue projection, and a summary dashboard.
 
-## 📁 Dataset
-- The entire dataset consists of 130 data points. There are 70 original data points and 60 additional data points.
-- The dataset covers the period from January 1, 2024 to May 10, 2024.
-- A dummy dataset is used for this project and the dataset used is in the portfolio file.
+## 🖥️ Dashboard
 
-## 📄 Files
-File descriptions in the portfolio
-  - **RAW Data Porto**: RAW dataset used in this project
-  - **CLEAN Data Porto**: Clean dataset or dataset that has undergone data cleaning
-  - **Mapping_Product**: Helper file used in the data cleaning process
-  - **Dataset Tambahan**: Additional data added for this project
-  - **RILL Fix Data (Pivot)**: FIX dataset used for analysis
-  - **Portfolio-PIVOT+Chart**: Analysis results with Pivot tables and Pivot Charts along with analysis notes
-  - **Tabel-Help Pivot**: Helper table in one of the analysis segments in the Pivot table
-  - **DASHBOARD**: Analysis results formed in dashboard visualization
-  - **Dashboard-Sheethelp**: Helper file in dashboard creation
-
-## 🛠 Tools Used
-- Microsoft Excel (Pivot Table, Chart, Forecasting, Dashboard) 
-
-## 🎯 Project Focus
-The Intermediate level projects aim to practice:
-- Lookup and logical functions for analysis
-- Dynamic formulas and conditional calculations
-- Data aggregation using Pivot Tables
-- Analytical visualization
-
-## 📘 Key Skills Practiced
-- Lookup & Reference: `VLOOKUP` `AND` `IF`
-- Dynamic Arrays: `UNIQUE`, `SORT`, `RANDARRAY`
-- Conditional Analysis: `COUNTIF`
-- Pivot Tables & Charts
-- Visualization Data
-
-## 🧹 Data Preparation
-Common preprocessing steps include:
-- Removing duplicate records
-- Data Format Normalization
-- Handling missing or blank values - (Input Blank values with date before the blank)
-- Standardizing text formats and categories - (Using `TRIM` `PROPER` `SUBSTITUTE`)
-- Create "Mapping_Product" files to help standarize words
-- Ensuring dataset consistency
-
-## 📊 Project Output & Analysis - Pivot Table & Pivot Chart
-The output of these mini projects typically includes:
-- **Total Sales per Category**
-  - The **Electronics category contributed the highest revenue of IDR 12,935,000**.  
-    <img width="545" height="366" alt="image" src="https://github.com/user-attachments/assets/80cfa220-69f8-48d0-83b4-3f2c255013bf" />
-
-- **Total Sales per Date / Trend Chart** <br>
-    <img width="552" height="327" alt="image" src="https://github.com/user-attachments/assets/0f37425b-52fa-4cda-9507-404ce611cf6d" />
-  - The highest peak of the trend was in **February at Rp 10,050,000**.
-  - There was a **sharp decline** from April to May **by 66%**.
-  - After further analysis, the **decline (*orange dotted line*) occurred due to a lack of data or irregular data duration**. The dataset used ends on **May 10, 2024**, so it can be said that **the data is still ongoing or a forecast**. 
-  - After further analysis using **forecasting**, the results show that **in May, sales performance was stable at Rp 9,889,000 or 24%**, and even had the potential to match the sales record in February.<br>
-    <img width="539" height="200" alt="image" src="https://github.com/user-attachments/assets/db61e120-deb4-43d8-8ce8-2eb1f0cd36d0" /> <br><br>
-  - A comparative analysis was also conducted for April 1-10 vs. May. The results showed that **total sales in May were higher than in April**.<br>
-    <img width="317" height="238" alt="image" src="https://github.com/user-attachments/assets/11f64595-6eff-4add-b200-d73dacc9015e" />
-
-- **Total Sales High vs Low**
-  - From **January to May 2024, approximately 85% of the most popular products were high-priced items**. Consumer interest remained consistent each month, suggesting that high-priced products dominated monthly sales.
-    <img width="425" height="399" alt="image" src="https://github.com/user-attachments/assets/e55be7fd-e46e-4aac-b0ff-1ee359a9e412" />
-
-- **Total Sales per Region** <br>
-    <img width="674" height="379" alt="image" src="https://github.com/user-attachments/assets/8f17d2c8-2a9e-40c6-9476-f66a919ff812" />
-  - The **highest sales percentage** came from the **West** region, which accounted for **28%** of total sales, followed by the **East, North, and finally South**.
-
-- **Trend Harga Jual (Average per Unit)** <br>
-    <img width="553" height="435" alt="image" src="https://github.com/user-attachments/assets/2cb58b99-0297-416a-9be3-ad01541a802e" />
-  - On average, **sales from January to May 2024 increased**, peaking in May at Rp 145,500, meaning that **product sales increased gradually each month** (*orange bar graph*).
-
-- **Total Sales of Each Category per Region**<br>
-    <img width="682" height="428" alt="image" src="https://github.com/user-attachments/assets/24cae286-5f37-4dd1-9858-9baa6482e8d9" />
-  - Judging from the **Sum of Quantity**, the **Accessories** category ranks third in terms of the number of buyers compared to the **Footwear** category, but its total sales are the lowest. This is because the **unit price of Accessories is lower than other categories**, so the graph shows that **Accessories** has the lowest sales.
-  - From this, it cannot be said that buyer interest in the **Accessories** category is low in every region. However, we can **increase sales** in this category in several ways, **such as promoting it through social media or launching new products** to attract more customers to purchase items in this category.
-
-- **Customer Segmentation** <br>
-    <img width="621" height="352" alt="image" src="https://github.com/user-attachments/assets/778d1276-1c51-46b0-8263-046f26b89628" />
-  - The **West is the most profitable region per transaction with the highest average spend of IDR 360,469**, even though it does not have the highest number of transactions (32 orders). **The strategic focus is on upselling** to increase the average spend closer to the total average price.
-  - **East is the main transaction area with 38 orders**, but has a low average spend (IDR 296,447).
-  - **North has a strong average spend (IDR 322,000)** despite having the fewest transactions (30 orders).
-  - **South is the most underperforming region as it has the lowest number of transactions (30 orders) and the lowest average spend (IDR 291,000)**. The South region requires in-depth assistance in terms of promotion to increase the number of customers and pricing strategies to increase spending value. 
-  - Based on the data, the West & North regions have customers with high purchasing power. Therefore, the strategic focus is on maintaining loyalty to keep transaction values high.
-
-- **Product Performance** <br>
-    <img width="630" height="402" alt="image" src="https://github.com/user-attachments/assets/865ba5b5-bd3e-4fdc-a1f2-3ea35e061fdb" />
-  - **Shoes: The top-performing product (23.7%) and our primary revenue driver**, capturing nearly a quarter of the total market share.
-  - **T-Shirt: A strong secondary performer** with consistent demand, maintaining a solid 14.9% contribution.
-  - **Headphone: A key growth product in the electronics segment**, showing a healthy double-digit market share.
-  - **Mouse & Hoodie: Supporting categories that provide steady volume and complete our core product ecosystem.**
-
-## 📊Dashboard 
-Excel simple dashboard from this project:														
 <img width="1395" height="647" alt="image" src="https://github.com/user-attachments/assets/4dd99deb-0289-4123-8b24-1c869729b6f9" />
 
-## 🎯 Learning Outcome
-After completing the Intermediate projects, the learner is able to:
-- Prepare and clean datasets for analysis
-- Apply intermediate Excel functions effectively
-- Perform structured business analysis using Pivot Tables
-- Build meaningful charts for reporting
-- Translate data into actionable insights
+*Excel dashboard summarizing the key sales metrics from this project.*
 
-## 📌 Notes
-- Projects are based on practical business scenarios
-- Focus is on analytical reasoning rather than automation
-- This level bridges basic skills and intermediate analysis
+## 🎯 Key Findings
 
-## ✅ Status
-✔  Completed
+- **Electronics** was the top category by revenue (**IDR 12,935,000**), and **Shoes** was the top product by revenue (**23.7%** of total sales), followed by T-Shirt (14.9%). By units sold, **T-Shirt** leads (82 of 355 units) and Laptop Sleeve is last (8 units), so the volume leader and the revenue leader differ.
+- Monthly sales **peaked in February at IDR 10,050,000**.
+- The **66% drop from April to May is a data-coverage effect, not a real decline**: the dataset ends on May 10, 2024. Compared like-for-like (April 1-10 vs May 1-10), May sales were slightly higher: IDR 3,190,000 vs IDR 3,035,000 (about +5%).
+- **West** is the strongest region: **28% of total sales** and the **highest average spend (IDR 360,469)**. **South** is the weakest: tied for the fewest orders (30) and the lowest average spend (IDR 291,000).
+- **85.37% of total sales revenue** came from high-value orders (order value ≥ IDR 200,000), versus 14.63% from low-value orders.
+- Projected full-month May sales: **IDR 9,889,000** (month-to-date run-rate: IDR 3,190,000 ÷ 10 days × 31 days), about 4.5% above April and 1.6% below February's peak.
 
+## 🧭 Business Questions & Approach
 
+**Questions this project answers**
+
+1. Which categories, products, and regions drive revenue?
+2. How do sales trend over time, and is the latest drop real?
+3. Which regions need attention, and what would help them?
+4. What might full-month May sales look like, based on the first 10 days?
+
+**Approach**
+
+1. **Prepare** the raw data (format normalization, missing dates, text standardization)
+2. **Analyze** with Pivot Tables and Pivot Charts across category, product, region, and time
+3. **Project** full-month May sales from month-to-date data using a run-rate calculation
+4. **Summarize** the results in a dashboard
+
+## 📁 Dataset
+
+| Info | Detail |
+| ---- | ------ |
+| Type | **Dummy (simulated) dataset**, created for practice, not real business data |
+| Size | 130 order records: 70 initial records + 60 additional records added to give the analysis more data |
+| Period | January 1, 2024 to May 10, 2024 |
+| Location | Included in the portfolio workbook (see below) |
+
+## 📄 Repository Files
+
+| File | Description |
+| ---- | ----------- |
+| `Portofolio_Intermediate-Excel (version 2).xlsm` | Main workbook containing the datasets, analysis, and dashboard |
+| `Mini Sales Performance Report Project.pdf` | Summary report of the project: the questions asked, the approach, and the results |
+| `README.md` | Project documentation |
+
+### Workbook Structure
+
+| Sheet | Description |
+| ----- | ----------- |
+| `RAW Data Porto` | Raw dataset used in this project |
+| `CLEAN Data Porto` | Dataset after data cleaning |
+| `Mapping_Product` | Helper table used to standardize product names during cleaning |
+| `Dataset Tambahan` | The 60 additional dummy records added to the dataset |
+| `RILL Fix Data (Pivot)` | Final dataset used for analysis |
+| `Portfolio-PIVOT+Chart` | Pivot Tables and Pivot Charts with analysis notes |
+| `Tabel-Help Pivot` | Helper table for one of the Pivot analysis segments |
+| `DASHBOARD` | Dashboard visualization of the results |
+| `Dashboard-Sheethelp` | Helper sheet for building the dashboard |
+
+## 🛠️ Tools & Skills
+
+**Tool:** Microsoft Excel (Pivot Tables & Charts, run-rate projection, Dashboard)
+
+**Functions and techniques:**
+
+- Lookup & logic: `VLOOKUP`, `AND`, `IF`
+- Conditional analysis: `COUNTIF`
+- Dynamic arrays: `UNIQUE`, `FILTER`
+- Text standardization: `TRIM`, `PROPER`, `SUBSTITUTE`
+- Pivot Tables, Pivot Charts, and dashboard design
+
+## 🧹 Data Preparation
+
+- Checked for duplicate records: **none found**
+- Normalized data formats
+- **Filled 8 blank dates** with the date from the row directly above
+- Standardized text formats and categories using `TRIM`, `PROPER`, and `SUBSTITUTE`
+- Created the `Mapping_Product` table to standardize product names
+- Verified dataset consistency before analysis
+
+## 📈 Analysis & Insights
+
+### 1. Total Sales per Category
+
+<img width="545" height="366" alt="image" src="https://github.com/user-attachments/assets/80cfa220-69f8-48d0-83b4-3f2c255013bf" />
+
+- **Electronics** contributed the highest revenue: **IDR 12,935,000**.
+
+### 2. Sales Trend & Forecast
+
+<img width="552" height="327" alt="image" src="https://github.com/user-attachments/assets/0f37425b-52fa-4cda-9507-404ce611cf6d" />
+
+- Sales peaked in **February at IDR 10,050,000**.
+- Sales appear to drop **66% from April to May**, but the dataset ends on **May 10, 2024**, so May is incomplete. The drop reflects missing data, not weaker performance.
+
+<img width="385" height="95" alt="image" src="https://github.com/user-attachments/assets/3b1025d5-92aa-45d2-b6de-738121bfe5fe" />
+
+- Forecast method: a month-to-date **run-rate projection**: (sales so far ÷ days elapsed) × days in the month = (IDR 3,190,000 ÷ 10) × 31 = **IDR 9,889,000**.
+- That is about **4.5% above April** (IDR 9,460,000) and **1.6% below February's peak** (IDR 10,050,000), so May has the potential to approach the February record.
+- This is a simple, indicative estimate: it assumes the first 10 days' daily average holds for the whole month and does not capture seasonality or day-to-day swings.
+
+<img width="400" height="224" alt="image" src="https://github.com/user-attachments/assets/1fcf7ef3-4ad1-4833-86c9-d3543620a126" />
+
+- Comparing **April 1-10 vs May 1-10**, May sales were slightly **higher**: **IDR 3,190,000 vs IDR 3,035,000** (about +5%), consistent with the projection that May is tracking in line with earlier months.
+- **Checkpoint:** if sales have not picked up by around May 20, the projected figure will not be met, and the marketing and sales teams should step in to address it.
+
+### 3. High-Value vs Low-Value Sales
+
+<img width="425" height="399" alt="image" src="https://github.com/user-attachments/assets/935bb1d4-6c15-459f-b10b-a93e09627e20" />
+
+- Each order's **Total Sales = Unit Price × Quantity**. An order is classified as "High" if its Total Sales is **≥ IDR 200,000**, and "Low" if it is below that.
+- From January to May 2024, **85.37% of total sales revenue** came from high-value orders and 14.63% from low-value orders. The pattern held in every month, so high-value sales dominated revenue throughout.
+- This measures **revenue share**, so it shows where the money comes from, not necessarily which items customers buy most often (see Product Rank below).
+
+### 4. Total Sales per Region
+
+<img width="674" height="379" alt="image" src="https://github.com/user-attachments/assets/1a8ecb2f-e3dd-4750-98ff-e79effa9794c" />
+
+- **West** had the highest share of sales (**28%**), followed by **East, North, and South**.
+
+### 5. Average Selling Price Trend
+
+<img width="455" height="328" alt="image" src="https://github.com/user-attachments/assets/71e5b23d-d205-4b2e-babc-e58ffb533c50" />
+
+- The average selling price per unit **rose gradually from January to May**, peaking in May at **IDR 145,500**. This may reflect a shift toward higher-priced products; it does not by itself show higher sales volume.
+
+### 6. Category Performance per Region
+
+<img width="643" height="329" alt="image" src="https://github.com/user-attachments/assets/138f0830-b671-4037-8f1b-5d2289cb2d33" />
+
+- Each region leans toward a different category: **East** favors **Apparel** (IDR 4,980,000), **West** favors **Footwear** (IDR 4,990,000), and **North** and **South** favor **Electronics** (IDR 3,975,000 and IDR 2,970,000).
+- **Accessories** has the lowest sales in East, North, and West. South is the exception: there, Footwear is lowest (IDR 1,470,000 vs IDR 1,875,000 for Accessories).
+- By units sold (Sum of Quantity), Accessories sold more than Footwear, yet it has the **lowest total sales** overall (IDR 4,255,000), because its unit price is lower than the other categories.
+- This does not mean customer interest in Accessories is low in every region. Possible ways to grow it: promote it on social media or launch new products to attract more buyers.
+
+### 7. Regional Segmentation
+
+<img width="621" height="6352" alt="image" src="https://github.com/user-attachments/assets/6c442233-3110-4368-90f3-c805a681fc83" />
+
+| Region | Orders | Average Spend (IDR) | Takeaway |
+| ------ | ------ | ------------------- | -------- |
+| West | 32 | 360,469 | Highest average spend and highest sales share (28%). **Focus: upselling** and keeping loyalty high. |
+| East | 38 | 296,447 | Most transactions, but a low average spend. |
+| North | 30 | 322,000 | Fewest orders (tied with South) but a strong average spend. **Focus: maintain loyalty.** |
+| South | 30 | 291,000 | Tied for fewest orders and the lowest average spend. Needs **promotion** to attract customers and **pricing strategy** to raise spending. |
+
+- West and North show customers with high purchasing power, so the focus there is keeping transaction values high.
+
+### 8. Product Performance
+
+<img width="630" height="402" alt="image" src="https://github.com/user-attachments/assets/6524ebef-41bf-4bde-8d1d-4f1dfefbadb8" />
+
+- **Shoes:** top product at **23.7%** of total sales and the main revenue driver.
+- **T-Shirt:** strong secondary performer with consistent demand (**14.9%**).
+- **Headphone:** key growth product in the electronics segment, with a double-digit share.
+- **Mouse & Hoodie:** supporting products that provide steady volume.
+
+### 9. Product Rank by Units Sold
+
+<img width="375" height="245" alt="image" src="https://github.com/user-attachments/assets/51a88d0b-3da9-49bf-9a1d-a1f8be01b159" />
+
+| Product | Units Sold |
+| ------- | ---------- |
+| T-Shirt | 82 |
+| Cap | 53 |
+| Mouse | 45 |
+| Shoes | 39 |
+| Belt | 34 |
+| Keyboard | 21 |
+| Headphone | 20 |
+| Jacket | 20 |
+| Hoodie | 19 |
+| Sandals | 14 |
+| Laptop Sleeve | 8 |
+| **Total** | **355** |
+
+- **T-Shirt** sold the most units (82, about 23% of all units), while **Laptop Sleeve** sold the fewest (8).
+- Volume and revenue leaders differ: T-Shirt leads on units, but **Shoes** leads on revenue (23.7%) because of its higher unit price.
+
+## ⚠️ Limitations
+
+- The dataset is **dummy data** (130 records, 70 initial + 60 added). Findings illustrate the analytical method and are not conclusions about a real business.
+- The May figure is a simple run-rate extrapolation from 10 days of data (it assumes a constant daily average), not a statistical forecast. Treat it as an indicative estimate.
+- May is incomplete (data ends May 10), so month-over-month comparisons involving May need like-for-like periods.
+- The 8 blank dates were filled with the date from the row above, which assumes the records are in chronological order.
+
+## 🌻 About
+
+This project is part of my data analyst portfolio.
+
+|  |  |
+| -- | -- |
+| 📧 Email | [putriayulw10@gmail.com](mailto:putriayulw10@gmail.com) |
+| 🌐 LinkedIn | [linkedin.com/in/putriayulichawardani](https://www.linkedin.com/in/putriayulichawardani) |
