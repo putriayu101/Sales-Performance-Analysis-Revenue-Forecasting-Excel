@@ -127,7 +127,7 @@
 
 ### 5. Average Selling Price Trend
 
-<img width="455" height="328" alt="image" src="https://github.com/user-attachments/assets/71e5b23d-d205-4b2e-babc-e58ffb533c50" />
+<img width="655" height="456" alt="image" src="https://github.com/user-attachments/assets/71e5b23d-d205-4b2e-babc-e58ffb533c50" />
 
 - The average selling price per unit **rose gradually from January to May**, peaking in May at **IDR 145,500**. This may reflect a shift toward higher-priced products; it does not by itself show higher sales volume.
 
