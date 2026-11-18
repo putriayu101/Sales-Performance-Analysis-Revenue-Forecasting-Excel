@@ -142,7 +142,7 @@
 
 ### 7. Regional Segmentation
 
-<img width="630" height="355" alt="image" src="https://github.com/user-attachments/assets/6c442233-3110-4368-90f3-c805a681fc83" />
+<img width="675" height="355" alt="image" src="https://github.com/user-attachments/assets/6c442233-3110-4368-90f3-c805a681fc83" />
 
 | Region | Orders | Average Spend (IDR) | Takeaway |
 | ------ | ------ | ------------------- | -------- |
