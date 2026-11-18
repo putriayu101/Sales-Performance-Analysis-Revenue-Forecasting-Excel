@@ -133,7 +133,7 @@
 
 ### 6. Category Performance per Region
 
-<img width="643" height="329" alt="image" src="https://github.com/user-attachments/assets/138f0830-b671-4037-8f1b-5d2289cb2d33" />
+<img width="670" height="435" alt="image" src="https://github.com/user-attachments/assets/138f0830-b671-4037-8f1b-5d2289cb2d33" />
 
 - Each region leans toward a different category: **East** favors **Apparel** (IDR 4,980,000), **West** favors **Footwear** (IDR 4,990,000), and **North** and **South** favor **Electronics** (IDR 3,975,000 and IDR 2,970,000).
 - **Accessories** has the lowest sales in East, North, and West. South is the exception: there, Footwear is lowest (IDR 1,470,000 vs IDR 1,875,000 for Accessories).
@@ -142,7 +142,7 @@
 
 ### 7. Regional Segmentation
 
-<img width="621" height="6352" alt="image" src="https://github.com/user-attachments/assets/6c442233-3110-4368-90f3-c805a681fc83" />
+<img width="630" height="355" alt="image" src="https://github.com/user-attachments/assets/6c442233-3110-4368-90f3-c805a681fc83" />
 
 | Region | Orders | Average Spend (IDR) | Takeaway |
 | ------ | ------ | ------------------- | -------- |
@@ -164,7 +164,7 @@
 
 ### 9. Product Rank by Units Sold
 
-<img width="375" height="245" alt="image" src="https://github.com/user-attachments/assets/51a88d0b-3da9-49bf-9a1d-a1f8be01b159" />
+<img width="545" height="350" alt="image" src="https://github.com/user-attachments/assets/51a88d0b-3da9-49bf-9a1d-a1f8be01b159" />
 
 | Product | Units Sold |
 | ------- | ---------- |
